@@ -1,0 +1,40 @@
+enable : true
+heading : Our Packages
+headingSpan : Tours
+packagesTable :
+  - title : Health and Wellbeing
+    icon : fa-heart
+    price : $$$
+    btnURL : #
+    btnText : Take a Tour
+    plan :
+      - planDetails : Go for a hike
+      - planDetails : Eat some fruit
+      - planDetails : Drink Hinano
+      
+  - title : Culture
+    price : $$$
+    time : month
+    btnURL : #
+    btnText : Take a Tour
+    plan :
+      - planDetails : Make A Hat
+      - planDetails : Play Ukulele
+      - planDetails : Learn The Local Language
+      
+  - title : Adventure
+    price : $$$$
+    btnURL : #
+    btnText : Take a Tour
+    plan :
+      - planDetails : Go Surfing
+      - planDetails : Go Kite Surfing
+      - planDetails : Go Wind Surfing
+      
+  - title : Eco Tours
+    time : month
+    btnURL : #
+    btnText : Take a Tour
+    plan :
+      - planDetails : Eco Tour Events
+      - planDetails : Eco Tour Activity
