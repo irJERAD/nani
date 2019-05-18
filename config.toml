@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://example.org/"
+baseurl = "http://nani.jerad.xyz"
 languageCode = "en-us"
 title = "nani-agency"
 theme = "hugo-agency-theme"
