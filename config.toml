@@ -2,7 +2,7 @@
 baseurl = "http://nani.jerad.xyz"
 languageCode = "en-us"
 title = "nani-agency"
-theme = "hugo-agency-theme"
+theme = "agency"
 
 publishDir = "docs"
 
@@ -21,7 +21,7 @@ googleAnalytics = ""
   # information about you and your website.
   name = "nani travels"
   description = "nani travels is a group of innovative and environmentally conscious activists travelers who joined together to provide the eco tourism services and adventures enjoyed by them and our planet."
-  # email = "your@email.com"
+  email = "nani@gmail.com"
 
   # Link custom assets relative to /static
   custom_css = []
@@ -57,6 +57,10 @@ googleAnalytics = ""
     team = "Team"
     contact = "Contact"
 
+## TODO Blog
+# create blog section with mainpage off home.
+# consider creating partial blog summary on single page layout
+
     # Add custom links. Those can be pre- and postpended to the default menu above.
     # Use the weight attribute to order your custom links. Uncomment the example
     # below and replace the values with your own.
@@ -69,7 +73,7 @@ googleAnalytics = ""
 
     # postpended links
     [[menu.postpend]]
-      url = "http://gohugo.io"
+      url = "http://Jerad.xyz "
       name = "External link"
       weight = 10
 
